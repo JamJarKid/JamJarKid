@@ -2,17 +2,12 @@
 ### Welcome
 -----------
 
-The name "JamJarKid" has an interesting backstory. During my A-Level physics classes, my teacher used to say that if he handed me a complex, ornate jam jar, I could describe everything about it – its shape, volume, surface area, and any other calculation imaginable. But, if he asked me to open it, that would be a different story.
-
-
 
 ### About Me
 
 -----------
 
-I'm currently moving into the world of data science as a junior data scientist.
-
-
+I'm currently a junior data scientist.
 
 
 ### Tech Skills and Learning
