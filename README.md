@@ -1,6 +1,4 @@
-# Maliek Curtis
-
-Data scientist transitioning into full-stack and backend engineering. Building production software, one commit at a time.
+Senior data scientist transitioning into full-stack and backend engineering. Building production software, one commit at a time.
 
 ## Current Focus
 
