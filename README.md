@@ -10,10 +10,9 @@ Senior data scientist transitioning into full-stack and backend engineering. Bui
 ## Tech
 
 **Languages:** Python · TypeScript · SQL  
-**Frontend:** React · React Native · Expo Router  
+**Frontend:** React · React Native · Expo
 **Data/ML:** scikit-learn · XGBoost · PySpark · pandas  
-**Cloud:** GCP (Professional ML Engineer certified)  
-**Tooling:** Neovim · uv · Ruff · ESLint · Prettier · GitHub Actions
+**Cloud:** GCP (Professional ML Engineer certified)
 
 ## What's Next
 
