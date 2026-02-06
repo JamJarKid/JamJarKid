@@ -25,4 +25,4 @@ Data scientist transitioning into full-stack and backend engineering. Building p
 
 ## Background
 
-BEng Chemical Engineering (First Class Honours) → Data Scientist in motorsport telemetry and financial services → Now pivoting to software engineering. Interested in systems that ship, not just models that score.
+BEng Chemical Engineering (First Class Honours) → Data Scientist in motorsport then financial services → Now pivoting to software engineering. Interested in systems that ship, not just models that score.
