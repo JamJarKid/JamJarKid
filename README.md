@@ -9,10 +9,13 @@ Senior data scientist transitioning into full-stack and backend engineering. Bui
 
 ## Tech
 
-**Languages:** Python · TypeScript · SQL  
+**Languages:** Python · TypeScript · SQL
+
 **Frontend:** React · React Native · Expo
-**Data/ML:** scikit-learn · XGBoost · PySpark · pandas  
+
 **Cloud:** GCP (Professional ML Engineer certified)
+
+**Data/ML:** scikit-learn · XGBoost · PySpark · pandas  
 
 ## What's Next
 
