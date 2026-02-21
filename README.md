@@ -6,6 +6,7 @@ Senior data scientist transitioning into full-stack and backend engineering. Bui
 - **[Project templates](https://github.com/JamJarKid/templates)** — Opinionated starter configs for Python (uv, Ruff, pytest), React (Vite, vitest), React Native (Expo 54), Preact, and vanilla TypeScript. Strict linting, CI/CD via GitHub Actions, pre-commit hooks
 - **Backend fundamentals** — Working through Boot.dev's backend path. TypeScript course complete, building towards Go and system design
 - **Daily commits** — Building a year-long streak. Shipping code every day
+- **System Design** - Building on MLE fundamentals to develop better large system design skills
 
 ## Tech
 
