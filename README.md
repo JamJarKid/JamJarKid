@@ -22,7 +22,7 @@ Senior data scientist transitioning into full-stack and backend engineering. Bui
 
 - Go for backend services
 - Full-stack projects with APIs and databases
-- Portfolio site (in progress)
+- Portfolio site
 
 ## Background
 
