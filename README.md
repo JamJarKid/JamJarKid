@@ -2,7 +2,7 @@ Senior data scientist transitioning into full-stack and backend engineering. Bui
 
 ## Current Focus
 
-- **React Native mobile app** — Expo, TypeScript, custom components
+- **React Native mobile app** — Expo (55 testing), TypeScript, custom components
 - **[Project templates](https://github.com/JamJarKid/templates)** — Opinionated starter configs for Python (uv, Ruff, pytest), React (Vite, vitest), React Native (Expo 54), Preact, and vanilla TypeScript. Strict linting, CI/CD via GitHub Actions, pre-commit hooks
 - **Backend fundamentals** — Working through Boot.dev's backend path. TypeScript course complete, building towards Go and system design. Golang is very cool coming from python
 - **Daily commits** — Building a year-long streak. Shipping code every day
